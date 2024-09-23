@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "question":"What is capital of india?",
+        "option":["Chennai","New Delhi","Coimbatore","Madurai"],
+        "correctOption":"New Delhi"
+    },
+    {
+        "id":2,
+        "question":"What is the national bird of india?",
+        "option":["Parrot","Duck","Peacock","Crow"],
+        "correctOption":"Peacock"
+    },
+    {
+        "id":3,
+        "question":"What is the National Flower of India?",
+        "option":["Lotus","Jasmine","Rose","Lilly"],
+        "correctOption":"Lotus"
+    }
+]
